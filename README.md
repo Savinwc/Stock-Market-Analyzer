@@ -1,13 +1,13 @@
 # Stock-Market-Analyzer
 
 # How to run:
-git clone https://github.com/Savinwc/SMA.git
-cd./SMA
-python -m venv env1
-./env1/Scripts/activate
-pip install -r requirements.txt
-cd ./StockMarketAnalyzer
-python manage.py runserver 0.0.0.0:80
+git clone https://github.com/Savinwc/SMA.git<br>
+cd./SMA<br>
+python -m venv env1<br>
+./env1/Scripts/activate<br>
+pip install -r requirements.txt<br>
+cd ./StockMarketAnalyzer<br>
+python manage.py runserver 0.0.0.0:80<br>
 
 # Summary :
 This is a full stack machine learning project that uses Django Framework in its core architecture. It is a server
