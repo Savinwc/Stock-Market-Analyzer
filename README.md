@@ -16,8 +16,8 @@ and run sentiment analysis on the news articles. This sentiment along with the p
 the change in the stock. We are obtaining accuracies of upto 70% on a few stocks. This project utilizes a data-centric architecture with a sophisticated backend data pipelining system for processing.
 
 # Technologies used:
-● Django
-● HTML CSS JS Jquery Bootstrap Plotly
-● Tensorflow Keras
-● Scrapy BeautifulSoup4
+● Django<br>
+● HTML CSS JS Jquery Bootstrap Plotly<br>
+● Tensorflow Keras<br>
+● Scrapy BeautifulSoup4<br>
 
